@@ -38,6 +38,6 @@ Click **Use this template** on any repo to start a new project.
 ## 🤝 Work with us
 
 - 🌐 Website: https://zenadvi.com
-- 📧 Email: hello@zenadvi.com
+- 📧 Email: info@zenadvi.com
 
 _Have a project in mind? Get in touch._
